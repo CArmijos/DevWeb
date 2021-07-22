@@ -1,0 +1,26 @@
+.ClaseH1 {
+    background: #02B1FC;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+  }
+
+  #ClaseDiv {
+    background: #060999bb;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+  }
+
+  .ClaseButton {
+    background: #0c8621;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    color: black;
+    font-size: 2rem;
+  }
